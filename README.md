@@ -14,6 +14,6 @@
 
 ---
 
-## 🤝 My Contacts
+## 📧 My Contacts
 - Email: [leantnidr04@gmail.com]  
 - LinkedIn: [www.linkedin.com/in/leantnidr/]  
