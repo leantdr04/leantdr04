@@ -2,7 +2,7 @@
 
 ## 📍 About Me
 **Leant Dela Rosa**  
-- Recent Computer Engineering graduate | Aspiring Network Engineer 🎯  
+- Recent Computer Engineering graduate 🎯  
 - Interested in computers, networks, and cybersecurity   
 
 ---
