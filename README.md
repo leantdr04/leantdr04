@@ -10,7 +10,7 @@
 ## 📂 What You'll Find Here:
 - **Networking Projects 🌍** – University coursework, and hands-on labs  
 - **Python Repository 💻** – Practice exercises, assignments, and some coding experiments  
-- **Future Projects 💡** – Ongoing or practicing small projects done to experiment and skill testing 
+- **Other Projects 💡** – Projects done from university and other personal projects for skill testing 
 
 ---
 
